@@ -104,7 +104,7 @@ Ensure you have Python 3.10+ installed on your system.
 ### 2. Clone and Environment Initialization
 Clone the repository to your machine and move into the project directory:
 ```bash
-git clone <your-public-github-repo-link>
+git clone https://github.com/rukshanasafrin/candidate-transformer.git
 cd candidate-transformer
 
 ```
