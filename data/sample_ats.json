@@ -1,22 +1,221 @@
-{
-  "candidates": [
-    {
-      "full_name": "Sarah Connor",
-      "email": "sconnor@resistance.io",
-      "phone": "555-1984",
-      "company": "Cyberdyne Systems",
-      "title": "Operations Lead"
-    },
-    {
-      "name": "Miles Dyson",
-      "contact_info": {
-        "email": "mdyson@cyberdyne.net",
-        "phone": "555-2029"
-      },
-      "profile": {
-        "company": "Cyberdyne Systems",
-        "title": "Director of R&D"
-      }
-    }
-  ]
-}
+[
+  {
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@techcorp.in",
+    "phone": "+919876543210",
+    "location": {"city": "Bengaluru", "state": "Karnataka", "country": "IN"},
+    "skills": [{"name": "React.js", "confidence": 0.95}, {"name": "Node.js", "confidence": 0.90}, {"name": "Docker", "confidence": 0.80}],
+    "experience": [{"title": "Senior SDE", "company": "TechCorp India", "start_date": "2022-08", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Bhavna M.",
+    "email": "bhavnamukho@gmail.com",
+    "phone": "+91 98840 12345",
+    "location": "Chennai, IN",
+    "skills": ["Python", "Go", "Kubernetes"],
+    "experience": [{"title": "Backend Engineering Lead", "company": "Velocity AI", "start_date": "2023-01", "end_date": "2025-02"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Zayan Malik",
+    "email": "zayan.malik@vocal.io",
+    "phone": "9810123456",
+    "location": {"city": "Kolkata", "country": "IN"},
+    "skills": [{"name": "Express.js", "confidence": 0.85}, {"name": "MongoDB", "confidence": 0.75}],
+    "experience": [{"title": "Node Developer", "company": "Vocal Media", "start_date": "2022-02", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "full_name": "Ananya Hegde",
+    "email": "ananya.hegde@netflix.com",
+    "phone": "+1 310 555 0144",
+    "location": "Los Angeles, USA",
+    "links": ["https://github.com/ananya-h?tab=overview"],
+    "skills": ["Java", "SpringBoot", "GCP", "Kubernetes"],
+    "experience": [{"title": "Staff Engineer", "company": "Netflix", "start_date": "2019-11", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Brijesh Yadav",
+    "email": "brijesh.yadav@railways.gov.in",
+    "phone": "+91 9111222333",
+    "location": {"city": "Lucknow", "region": "UP", "country": "IN"},
+    "skills": ["C++", "Oracle SQL", "Linux"],
+    "experience": [{"title": "Systems Administrator", "company": "Indian Railways", "start_date": "2011-07", "end_date": "2023-04"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Carolyn Vance",
+    "email": "carolyn.v@honed.co.uk",
+    "location": "Edinburgh, United Kingdom",
+    "skills": ["Ruby on Rails", "PostgreSQL", "Tailwind CSS"],
+    "experience": [{"title": "Full Stack Dev", "company": "Honed Software", "start_date": "2020-05", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Divya Teja",
+    "email": "divya.teja@isb.edu",
+    "phone": "04023007000",
+    "location": "Hyderabad, Telangana",
+    "skills": ["Product Management", "Critical Thinking", "Excel"],
+    "experience": [{"title": "Product Consultant", "company": "ISB Analyst Group", "start_date": "2022-04", "end_date": "2024-05"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Ewan McGregor",
+    "email": "ewan.m@obiwan.io",
+    "links": ["https://github.com/jedi-master?ref=coruscant"],
+    "skills": ["Public Speaking", "Team Leadership"],
+    "experience": [{"title": "Master Instructor", "company": "Jedi Order", "start_date": "1999-05", "end_date": "2005-05"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Gitanjali Rao",
+    "email": "gitanjali@invention.org",
+    "phone": "+1 720 555 0188",
+    "location": "Denver, CO, US",
+    "skills": ["Python", "TensorFlow", "Technical Writing"],
+    "experience": [{"title": "Research Intern", "company": "STEM Innovators", "start_date": "2021-08", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Himanshu Joshi",
+    "email": "himanshu.j@paytm.com",
+    "phone": "9899112233",
+    "location": "Noida",
+    "skills": ["Java", "Spring Boot", "Microservices", "AWS"],
+    "experience": [{"title": "Tech Lead", "company": "Paytm", "start_date": "2018-09", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Indrani Pal",
+    "email": "indrani.pal@biocon.com",
+    "location": "Bangalore Electronic City",
+    "skills": ["Data Analysis", "Python", "Excel"],
+    "experience": [{"title": "Bioinformatics Analyst", "company": "Biocon", "start_date": "2020-03", "end_date": "2023-08"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Joydeep Dutta",
+    "email": "joydeep@jadavpur.edu",
+    "phone": "03324146666",
+    "location": "Jadavpur, Kolkata, West Bengal",
+    "skills": ["C", "C++", "Shell Scripting", "SQL"],
+    "experience": [{"title": "Research Scholar", "company": "JU Engineering", "start_date": "2021-07", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Kiran Mazumdar",
+    "email": "kiran.m@executive.in",
+    "phone": "9845011223",
+    "location": "Bangalore",
+    "skills": ["Team Leadership", "Cross-Functional Collaboration", "Public Speaking"],
+    "experience": [{"title": "Managing Director", "company": "Enterprise Growth", "start_date": "2005-01", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Lakshman Jhula",
+    "email": "lakshman@rishikesh.in",
+    "location": "Rishikesh, Uttarakhand",
+    "skills": ["Active Listening", "Problem Solving"],
+    "experience": [{"title": "Tour Coordinator", "company": "Ganga Travels", "start_date": "2015-04", "end_date": "2022-10"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Manoj Bajpayee",
+    "email": "manoj.b@family-man.io",
+    "phone": "9955114422",
+    "location": "Mumbai, Maharashtra",
+    "skills": ["Problem Solving", "Time Management", "Technical Writing"],
+    "experience": [{"title": "Senior Agent", "company": "TASC Security", "start_date": "2019-06", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Nalini Krishnan",
+    "email": "nalini.k@apollo.in",
+    "phone": "+91 44 28290200",
+    "location": "Greams Road, Chennai",
+    "skills": ["Documentation", "Interpersonal Skills"],
+    "experience": [{"title": "Medical Scribe", "company": "Apollo Hospitals", "start_date": "2017-01", "end_date": "2021-12"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Omkar Deshmukh",
+    "email": "omkar.d@persistent.co.in",
+    "location": "Nagpur, India",
+    "skills": ["C#", "Microsoft SQL Server", "ASP.NET"],
+    "experience": [{"title": "Software Engineer", "company": "Persistent Systems", "start_date": "2022-10", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Pranav Mistry",
+    "email": "pranav@sixthsense.org",
+    "location": "Palampur, Gujarat, India",
+    "links": ["linkedin.com/in/pranav-mistry?ref=tech-leaders"],
+    "skills": ["C++", "Python", "TensorFlow", "Team Leadership"],
+    "experience": [{"title": "Lead Visionary", "company": "Labs Beyond", "start_date": "2009-08", "end_date": "2014-04"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Quasar Salim",
+    "email": "quasar.salim@unacademy.com",
+    "phone": "+91 8095123456",
+    "location": "Bangalore, KA",
+    "skills": ["React", "Next.js", "Tailwind"],
+    "experience": [{"title": "UI Developer", "company": "Unacademy", "start_date": "2021-03", "end_date": "2023-11"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Radha Krishna",
+    "email": "radha.k@iskcon.org",
+    "location": "Vrindavan, India",
+    "skills": ["Public Speaking", "Teamwork"],
+    "experience": [{"title": "Volunteer Lead", "company": "ISKCON", "start_date": "2010-01", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Siddharth Malhotra",
+    "email": "sid.m@dharmaproductions.com",
+    "phone": "9112345678",
+    "location": "Bandra, Mumbai",
+    "skills": ["Public Speaking", "Time Management"],
+    "experience": [{"title": "Lead Actor", "company": "Dharma Films", "start_date": "2012-10", "end_date": "Present"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Tanya Batra",
+    "email": "tanya.batra@inmobi.com",
+    "phone": "9818877665",
+    "location": "Delhi, India",
+    "skills": ["Data Analysis", "Power BI", "Excel"],
+    "experience": [{"title": "Account Strategist", "company": "InMobi", "start_date": "2020-01", "end_date": "2023-06"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Uday Kotak",
+    "email": "uday.kotak@kotak.com",
+    "location": "Nariman Point, Mumbai",
+    "skills": ["Team Leadership", "Cross-Functional Collaboration"],
+    "experience": [{"title": "Executive Vice Chairman", "company": "Kotak Bank", "start_date": "1985-04", "end_date": "2023-09"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Vikas Khanna",
+    "email": "vikas@michelinstar.com",
+    "location": "New York, USA",
+    "links": ["instagram.com/vikaskhanna"],
+    "skills": ["Public Speaking", "Team Leadership", "Time Management"],
+    "experience": [{"title": "Head Chef", "company": "Junoon NYC", "start_date": "2010-03", "end_date": "2016-12"}],
+    "_source": "ats_json"
+  },
+  {
+    "name": "Wendy Turnbull",
+    "email": "wendy.t@aussiecorp.com.au",
+    "phone": "+61 2 9876 5432",
+    "location": "Sydney, Australia",
+    "skills": ["Ruby", "Ruby on Rails", "PostgreSQL"],
+    "experience": [{"title": "Software Dev", "company": "Aussie Corp", "start_date": "2021-02", "end_date": "Present"}],
+    "_source": "ats_json"
+  }
+]

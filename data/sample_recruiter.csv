@@ -1,3 +1,52 @@
-Name,Email,Phone,Current Company,Job Title
-Jon Doe,jondoe@email.com,+91 9876541320,TechCorp,Backend Engineer
-Jane Smith,jane.smith@email.com,+91 9987456123,Innovate Inc,Product Manager
+name,email,phone,company,title,location,links,skills,start_date,end_date,_source
+Aarav Sharma,aarav.sharma@techcorp.in,+91 98765 43210,TechCorp India,Software Engineer,Bangalore,linkedin.com/in/aarav-s?ref=feed,"ReactJS, nodejs, js, AWS",15-08-2022,Present,recruiter_csv
+Bhavna Mukhopadhyay,bhavnamukho@gmail.com,9884012345,Velocity AI,Backend Dev,"Chennai, Tamil Nadu",github.com/bhavna-m,"python3, py, golang, postgres",2023/01/01,2025/02/28,recruiter_csv
+Zayan Malik,zayan.malik@vocal.io,9810123456,Vocal Media,Node Developer,Kolkata,,Express.js,2022-02,Present,recruiter_csv
+Ananya Hegde,ananya.hegde@netflix.com,+1 310 555 0144,Netflix,Staff Engineer,"Los Angeles, USA",https://github.com/ananya-h,Java,2019-11,Present,recruiter_csv
+Brijesh Yadav,brijesh.yadav@railways.gov.in,+91 9111222333,Indian Railways,Systems Administrator,"Lucknow, UP, IN",,C++,2011-07,2023-04,recruiter_csv
+Carolyn Vance,carolyn.v@honed.co.uk,,Honed Software,Full Stack Dev,"Edinburgh, United Kingdom",,Ruby on Rails,2020-05,Present,recruiter_csv
+Divya Teja,divya.teja@isb.edu,04023007000,ISB Analyst Group,Product Consultant,"Hyderabad, Telangana",,Product Management,2022-04,2024-05,recruiter_csv
+Ewan McGregor,ewan.m@obiwan.io,,Jedi Order,Master Instructor,Coruscant,https://github.com/jedi-master,Public Speaking,1999-05,2005-05,recruiter_csv
+Gitanjali Rao,gitanjali@invention.org,+1 720 555 0188,STEM Innovators,Research Intern,"Denver, CO, US",,Python,2021-08,Present,recruiter_csv
+Himanshu Joshi,himanshu.j@paytm.com,9899112233,Paytm,Tech Lead,Noida,,Java,2018-09,Present,recruiter_csv
+Indrani Pal,indrani.pal@biocon.com,,Biocon,Bioinformatics Analyst,Bangalore,,Data Analysis,2020-03,2023-08,recruiter_csv
+Joydeep Dutta,joydeep@jadavpur.edu,03324146666,JU Engineering,Research Scholar,"Jadavpur, Kolkata",,C++,2021-07,Present,recruiter_csv
+Kiran Mazumdar,kiran.m@executive.in,9845011223,Enterprise Growth,Managing Director,Bangalore,,Team Leadership,2005-01,Present,recruiter_csv
+Lakshman Jhula,lakshman@rishikesh.in,,Ganga Travels,Tour Coordinator,"Rishikesh, Uttarakhand",,Problem Solving,2015-04,2022-10,recruiter_csv
+Manoj Bajpayee,manoj.b@family-man.io,9955114422,TASC Security,Senior Agent,"Mumbai, Maharashtra",,Time Management,2019-06,Present,recruiter_csv
+Nalini Krishnan,nalini.k@apollo.in,+91 44 28290200,Apollo Hospitals,Medical Scribe,"Greams Road, Chennai",,Documentation,2017-01,2021-12,recruiter_csv
+Omkar Deshmukh,omkar.d@persistent.co.in,,Persistent Systems,Software Engineer,"Nagpur, India",,C#,2022-10,Present,recruiter_csv
+Pranav Mistry,pranav@sixthsense.org,,Labs Beyond,Lead Visionary,"Palampur, Gujarat",linkedin.com/in/pranav-mistry,TensorFlow,2009-08,2014-04,recruiter_csv
+Quasar Salim,quasar.salim@unacademy.com,+91 8095123456,Unacademy,UI Developer,"Bangalore, KA",,React,2021-03,2023-11,recruiter_csv
+Radha Krishna,radha.k@iskcon.org,,ISKCON,Volunteer Lead,"Vrindavan, India",,Public Speaking,2010-01,Present,recruiter_csv
+Siddharth Malhotra,sid.m@dharmaproductions.com,9112345678,Dharma Films,Lead Actor,"Bandra, Mumbai",,Time Management,2012-10,Present,recruiter_csv
+Tanya Batra,tanya.batra@inmobi.com,9818877665,InMobi,Account Strategist,"Delhi, India",,Data Analysis,2020-01,2023-06,recruiter_csv
+Uday Kotak,uday.kotak@kotak.com,,Kotak Bank,Executive Vice Chairman,"Nariman Point, Mumbai",,Team Leadership,1985-04,2023-09,recruiter_csv
+Vikas Khanna,vikas@michelinstar.com,,Junoon NYC,Head Chef,"New York, USA",instagram.com/vikaskhanna,Public Speaking,2010-03,2016-12,recruiter_csv
+Wendy Turnbull,wendy.t@aussiecorp.com.au,+61 2 9876 5432,Aussie Corp,Software Dev,"Sydney, Australia",,Ruby on Rails,2021-02,Present,recruiter_csv
+name,email,phone,company,title,location,links,skills,start_date,end_date,_source
+Aarav Sharma,aarav.sharma@techcorp.in,+91 98765 43210,TechCorp India,Software Engineer,Bangalore,linkedin.com/in/aarav-s?ref=feed,"ReactJS, nodejs, js, AWS",15-08-2022,Present,recruiter_csv
+Bhavna Mukhopadhyay,bhavnamukho@gmail.com,9884012345,Velocity AI,Backend Dev,"Chennai, Tamil Nadu",github.com/bhavna-m,"python3, py, golang, postgres",2023/01/01,2025/02/28,recruiter_csv
+Zayan Malik,zayan.malik@vocal.io,9810123456,Vocal Media,Node Developer,Kolkata,,Express.js,2022-02,Present,recruiter_csv
+Ananya Hegde,ananya.hegde@netflix.com,+1 310 555 0144,Netflix,Staff Engineer,"Los Angeles, USA",https://github.com/ananya-h,Java,2019-11,Present,recruiter_csv
+Brijesh Yadav,brijesh.yadav@railways.gov.in,+91 9111222333,Indian Railways,Systems Administrator,"Lucknow, UP, IN",,C++,2011-07,2023-04,recruiter_csv
+Carolyn Vance,carolyn.v@honed.co.uk,,Honed Software,Full Stack Dev,"Edinburgh, United Kingdom",,Ruby on Rails,2020-05,Present,recruiter_csv
+Divya Teja,divya.teja@isb.edu,04023007000,ISB Analyst Group,Product Consultant,"Hyderabad, Telangana",,Product Management,2022-04,2024-05,recruiter_csv
+Ewan McGregor,ewan.m@obiwan.io,,Jedi Order,Master Instructor,Coruscant,https://github.com/jedi-master,Public Speaking,1999-05,2005-05,recruiter_csv
+Gitanjali Rao,gitanjali@invention.org,+1 720 555 0188,STEM Innovators,Research Intern,"Denver, CO, US",,Python,2021-08,Present,recruiter_csv
+Himanshu Joshi,himanshu.j@paytm.com,9899112233,Paytm,Tech Lead,Noida,,Java,2018-09,Present,recruiter_csv
+Indrani Pal,indrani.pal@biocon.com,,Biocon,Bioinformatics Analyst,Bangalore,,Data Analysis,2020-03,2023-08,recruiter_csv
+Joydeep Dutta,joydeep@jadavpur.edu,03324146666,JU Engineering,Research Scholar,"Jadavpur, Kolkata",,C++,2021-07,Present,recruiter_csv
+Kiran Mazumdar,kiran.m@executive.in,9845011223,Enterprise Growth,Managing Director,Bangalore,,Team Leadership,2005-01,Present,recruiter_csv
+Lakshman Jhula,lakshman@rishikesh.in,,Ganga Travels,Tour Coordinator,"Rishikesh, Uttarakhand",,Problem Solving,2015-04,2022-10,recruiter_csv
+Manoj Bajpayee,manoj.b@family-man.io,9955114422,TASC Security,Senior Agent,"Mumbai, Maharashtra",,Time Management,2019-06,Present,recruiter_csv
+Nalini Krishnan,nalini.k@apollo.in,+91 44 28290200,Apollo Hospitals,Medical Scribe,"Greams Road, Chennai",,Documentation,2017-01,2021-12,recruiter_csv
+Omkar Deshmukh,omkar.d@persistent.co.in,,Persistent Systems,Software Engineer,"Nagpur, India",,C#,2022-10,Present,recruiter_csv
+Pranav Mistry,pranav@sixthsense.org,,Labs Beyond,Lead Visionary,"Palampur, Gujarat",linkedin.com/in/pranav-mistry,TensorFlow,2009-08,2014-04,recruiter_csv
+Quasar Salim,quasar.salim@unacademy.com,+91 8095123456,Unacademy,UI Developer,"Bangalore, KA",,React,2021-03,2023-11,recruiter_csv
+Radha Krishna,radha.k@iskcon.org,,ISKCON,Volunteer Lead,"Vrindavan, India",,Public Speaking,2010-01,Present,recruiter_csv
+Siddharth Malhotra,sid.m@dharmaproductions.com,9112345678,Dharma Films,Lead Actor,"Bandra, Mumbai",,Time Management,2012-10,Present,recruiter_csv
+Tanya Batra,tanya.batra@inmobi.com,9818877665,InMobi,Account Strategist,"Delhi, India",,Data Analysis,2020-01,2023-06,recruiter_csv
+Uday Kotak,uday.kotak@kotak.com,,Kotak Bank,Executive Vice Chairman,"Nariman Point, Mumbai",,Team Leadership,1985-04,2023-09,recruiter_csv
+Vikas Khanna,vikas@michelinstar.com,,Junoon NYC,Head Chef,"New York, USA",instagram.com/vikaskhanna,Public Speaking,2010-03,2016-12,recruiter_csv
+Wendy Turnbull,wendy.t@aussiecorp.com.au,+61 2 9876 5432,Aussie Corp,Software Dev,"Sydney, Australia",,Ruby on Rails,2021-02,Present,recruiter_csv
