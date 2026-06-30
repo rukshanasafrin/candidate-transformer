@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "full_name": "Sarah Connor",
+      "email": "sconnor@resistance.io",
+      "phone": "555-1984",
+      "company": "Cyberdyne Systems",
+      "title": "Operations Lead"
+    },
+    {
+      "name": "Miles Dyson",
+      "contact_info": {
+        "email": "mdyson@cyberdyne.net",
+        "phone": "555-2029"
+      },
+      "profile": {
+        "company": "Cyberdyne Systems",
+        "title": "Director of R&D"
+      }
+    }
+  ]
+}
