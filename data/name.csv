@@ -1,0 +1,101 @@
+ID,Full_Name,Email,Industry,Years_Experience,Key_Skills,Highest_Education
+1,John Doe,john.doe@email.com,Technology,4,"React, Node.js, AWS, Python",B.S. Computer Science
+2,Jane Smith,jane.smith@email.com,Marketing,5,"SEO, Google Analytics, HubSpot",B.A. Marketing
+3,Robert Chen,robert.chen@email.com,Operations,3,"Salesforce, Zendesk, Retention",B.S. Business Admin
+4,Emily Taylor,emily.t@email.com,Finance,7,"Financial Modeling, Excel, QuickBooks",M.S. Finance
+5,Michael Brown,m.brown@email.com,Healthcare,6,"Patient Care, Electronic Health Records",B.S. Nursing
+6,Sarah Davis,sarah.davis@email.com,Technology,2,"Java, SQL, Git, HTML/CSS",B.S. Information Systems
+7,David Wilson,david.w@email.com,Marketing,8,"Brand Strategy, Copywriting, PPC",M.A. Communications
+8,Jessica Martinez,jess.martinez@email.com,HR,4,"Recruiting, Talent Acquisition, ATS",B.A. Psychology
+9,James Anderson,j.anderson@email.com,Operations,10,"Supply Chain, Logistics, Six Sigma",M.B.A.
+10,Amanda Thomas,amanda.t@email.com,Finance,3,"Tax Preparation, Auditing, GAAP",B.S. Accounting
+11,Brian Jackson,brian.j@email.com,Technology,5,"Python, Django, PostgreSQL, Docker",B.S. Software Engineering
+12,Megan White,megan.w@email.com,Healthcare,4,"Medical Coding, Billing, Customer Service",Associate Degree
+13,Kevin Harris,kevin.harris@email.com,Marketing,6,"Social Media, Content Creation, SEO",B.A. Journalism
+14,Rachel Martin,rachel.m@email.com,HR,7,"Employee Relations, Payroll, Onboarding",B.S. Human Resources
+15,Chris Thompson,chris.t@email.com,Finance,9,"Portfolio Management, Risk Assessment",M.S. Economics
+16,Sarah Garcia,s.garcia@email.com,Operations,2,"Data Entry, Scheduling, Office Admin",B.A. English
+17,Jason Martinez,jason.m@email.com,Technology,8,"C++, Linux, Embedded Systems",M.S. Computer Science
+18,Laura Robinson,laura.r@email.com,Healthcare,12,"Healthcare Administration, Budgeting",M.A. Health Admin
+19,Daniel Clark,daniel.c@email.com,Marketing,3,"Email Marketing, Mailchimp, HTML",B.A. Media
+20,Lisa Rodriguez,lisa.r@email.com,HR,5,"Conflict Resolution, HRIS, Benefits",B.A. Sociology
+21,Matthew Lewis,m.lewis@email.com,Finance,4,"Corporate Finance, Tableau, SQL",B.S. Economics
+22,Elizabeth Lee,e.lee@email.com,Technology,6,"UI/UX Design, Figma, Adobe XD",B.F.A. Graphic Design
+23,Andrew Walker,andrew.w@email.com,Operations,5,"Project Management, Agile, Scrum",B.S. Civil Engineering
+24,Stephanie Hall,steph.hall@email.com,Healthcare,3,"Phlebotomy, Lab Analysis, CPR",Associate of Science
+25,William Allen,william.a@email.com,Marketing,10,"Growth Marketing, Lead Gen, CRM",M.B.A. Marketing
+26,Ashley Young,ashley.y@email.com,HR,2,"Sourcing, Interviewing, Onboarding",B.A. Communication
+27,Joshua King,joshua.k@email.com,Technology,1,"HTML, CSS, JavaScript, Bootstrap",Self-Taught / Bootcamp
+28,Nicole Wright,nicole.w@email.com,Finance,6,"Budget Analysis, Forecasting, SAP",B.S. Finance
+29,Ryan Lopez,ryan.l@email.com,Operations,4,"Inventory Management, Vendor Relations",B.A. Business
+30,Anna Hill,anna.hill@email.com,Healthcare,8,"Physical Therapy, Rehabilitation",Doctor of Physical Therapy
+31,Justin Scott,justin.s@email.com,Technology,7,"Kubernetes, AWS, Terraform, CI/CD",B.S. Computer Engineering
+32,Katherine Green,katie.g@email.com,Marketing,4,"Public Relations, Event Planning",B.A. Public Relations
+33,Benjamin Adams,ben.adams@email.com,Finance,5,"Equity Research, Bloomberg Terminal",M.S. Finance
+34,Mary Baker,mary.b@email.com,HR,8,"Strategic HR, Workforce Planning",M.S. Human Resources
+35,Samuel Gonzalez,sam.g@email.com,Operations,6,"Facilities Management, Safety/OSHA",B.S. Management
+36,Zoe Nelson,zoe.n@email.com,Healthcare,5,"Clinical Research, Data Analysis",M.S. Biology
+37,Alexander Carter,alex.c@email.com,Technology,3,"Data Science, Python, R, Tableau",M.S. Data Analytics
+38,Rebecca Mitchell,rebecca.m@email.com,Marketing,5,"Influencer Marketing, TikTok/Insta",B.A. Marketing
+39,Stephen Perez,s.perez@email.com,Finance,11,"Wealth Management, CFP, Financial Planning",B.A. Economics
+40,Hannah Roberts,hannah.r@email.com,HR,3,"HR Compliance, FMLA, Data Tracking",B.S. Business
+41,Eric Turner,eric.t@email.com,Operations,7,"Procurement, Contract Negotiation",B.S. Supply Chain
+42,Christina Phillips,chris.p@email.com,Healthcare,4,"Occupational Therapy, Patient Care",M.S. Occupational Therapy
+43,Kyle Campbell,kyle.c@email.com,Technology,5,"C#, .NET, Azure, SQL Server",B.S. Computer Science
+44,Teresa Parker,teresa.p@email.com,Marketing,6,"Copywriting, SEO, Content Management",B.A. English
+45,Douglas Evans,doug.e@email.com,Finance,8,"Internal Audit, SOX Compliance, Risk",B.S. Accounting
+46,Kelly Edwards,kelly.e@email.com,HR,6,"Compensation & Benefits, Payroll",B.A. Human Resources
+47,Peter Collins,peter.c@email.com,Operations,9,"Operations Management, Lean, KPI Tracking",M.B.A.
+48,Cheryl Stewart,cheryl.s@email.com,Healthcare,3,"Dental Hygiene, Patient Education",Associate in Dental Hygiene
+49,Walter Morris,walter.m@email.com,Technology,12,"Enterprise Architecture, IT Strategy",Ph.D. Computer Science
+50,Janice Rogers,janice.r@email.com,Marketing,4,"Market Research, SPSS, Survey Design",M.S. Marketing Analytics
+51,Albert Reed,albert.r@email.com,Finance,2,"Accounts Payable, Invoice Processing",B.S. Accounting
+52,Alice Cook,alice.cook@email.com,HR,4,"Talent Mapping, Executive Search",B.A. Psychology
+53,Henry Morgan,henry.m@email.com,Operations,5,"Customer Support, QA, Zendesk",B.A. Communication
+54,Julia Bell,julia.bell@email.com,Healthcare,7,"Case Management, Social Work",Master of Social Work
+55,Arthur Murphy,arthur.m@email.com,Technology,4,"Cybersecurity, Wireshark, Firewalls",B.S. Cybersecurity
+56,Marie Bailey,marie.b@email.com,Marketing,8,"E-commerce, Shopify, Amazon Seller Central",B.S. Business
+57,Ryan Rivera,ryan.rivera@email.com,Finance,5,"Credit Risk Analysis, Underwriting",B.A. Economics
+58,Diana Cooper,diana.c@email.com,HR,1,"Recruiting Coordination, Calendly",B.A. Sociology
+59,Louis Richardson,louis.r@email.com,Operations,6,"Fleet Management, Route Optimization",B.S. Logistics
+60,Jean Cox,jean.cox@email.com,Healthcare,10,"Surgical Nursing, ICU, Trauma",B.S. Nursing
+61,Philip Howard,philip.h@email.com,Technology,6,"iOS Development, Swift, Objective-C",B.S. Computer Science
+62,Frances Ward,frances.w@email.com,Marketing,3,"Affiliate Marketing, Partnership Management",B.A. Media
+63,Bobby Torres,bobby.t@email.com,Finance,4,"Financial Reporting, Cost Accounting",B.S. Accounting
+64,Judy Peterson,judy.p@email.com,HR,9,"Change Management, Leadership Training",M.A. Industrial Psychology
+65,Dylan Gray,dylan.g@email.com,Operations,5,"Vendor Management, SLA Monitoring",B.S. Management
+66,Grace Ramirez,grace.r@email.com,Healthcare,5,"Pharmacy Technician, Inventory, Math",Associate Degree
+67,Roy James,roy.j@email.com,Technology,8,"Android Development, Kotlin, Java",B.S. Software Engineering
+68,Theresa Watson,theresa.w@email.com,Marketing,6,"Brand Management, Focus Groups",M.B.A. Marketing
+69,Alan Brooks,alan.b@email.com,Finance,3,"Junior Analyst, Valuation, PowerPoint",B.S. Finance
+70,Beverly Kelly,bev.k@email.com,HR,5,"Employee Engagement, Survey Analysis",B.A. Communications
+71,Eugene Sanders,eugene.s@email.com,Operations,7,"Warehouse Management, WMS, Forklift Safety",High School Diploma
+72,Denise Price,denise.p@email.com,Healthcare,4,"Nutrition, Dietetics, Meal Planning",B.S. Nutrition
+73,Wayne Bennett,wayne.b@email.com,Technology,5,"Machine Learning, PyTorch, NLP",M.S. Artificial Intelligence
+74,Marilyn Wood,marilyn.w@email.com,Marketing,4,"Video Editing, Premiere Pro, After Effects",B.F.A. Film
+75,Billy Barnes,billy.b@email.com,Finance,12,"CFO Advisory, Mergers & Acquisitions",M.B.A. Finance
+76,Tammy Ross,tammy.ross@email.com,HR,3,"Onboarding Specialist, Training Delivery",B.A. Human Resources
+77,Bruce Henderson,bruce.h@email.com,Operations,5,"Project Planning, Asana, MS Project",B.S. Construction Admin
+78,Kathleen Coleman,kath.c@email.com,Healthcare,6,"Medical Records, HIPAA Compliance",B.S. Health Info Management
+79,Jeremy Jenkins,jeremy.j@email.com,Technology,4,"QA Automation, Selenium, Cucumber",B.S. Computer Science
+80,Lois Perry,lois.perry@email.com,Marketing,5,"B2B Marketing, Lead Scoring, Pardot",B.S. Business
+81,Billy Powell,billy.p@email.com,Finance,4,"Accounts Receivable, Collections",B.A. Business
+82,Robin Long,robin.long@email.com,HR,8,"Labor Relations, Union Negotiations",J.D. Law
+83,Louis Patterson,louis.p@email.com,Operations,6,"Business Analysis, Agile, Jira",B.S. Information Systems
+84,Sara Hughes,sara.h@email.com,Healthcare,5,"Radiologic Technology, X-Ray, MRI",Associate of Applied Science
+85,Albert Flores,albert.f@email.com,Technology,7,"Product Management, Agile, Roadmapping",B.S. Engineering
+86,Anne Washington,anne.w@email.com,Marketing,3,"Event Marketing, Trade Shows",B.A. Public Relations
+87,Harry Butler,harry.b@email.com,Finance,5,"Forensic Accounting, Fraud Detection",B.S. Accounting
+88,Paula Simmons,paula.s@email.com,HR,4,"Diversity & Inclusion (DEI), Sourcing",B.A. Sociology
+89,Randy Foster,randy.f@email.com,Operations,10,"Director of Operations, Budgeting, Strategy",M.B.A.
+90,Rose Gonzales,rose.g@email.com,Healthcare,4,"Speech Pathology, Pediatric Therapy",M.S. Speech-Language Pathology
+91,Victor Bryant,victor.b@email.com,Technology,3,"Frontend Development, Vue.js, Nuxt",B.S. Web Development
+92,Julia Alexander,julia.a@email.com,Marketing,6,"SEO Specialist, Keyword Research, Link Building",B.A. Marketing
+93,Russell Russell,russell.r@email.com,Finance,4,"Investment Banking, Pitchbooks",B.S. Finance
+94,Lisa Griffin,lisa.g@email.com,HR,5,"HR Generalist, Employee Handbook",B.S. Human Resources
+95,Philip Diaz,philip.d@email.com,Operations,4,"Technical Support, Hardware Repair",CompTIA A+ Certified
+96,Catherine Hayes,cath.h@email.com,Healthcare,15,"Chief Nursing Officer, Hospital Operations",M.S. Nursing
+97,Danny Myers,danny.m@email.com,Technology,6,"Database Administrator, Oracle, SQL Performance",B.S. Computer Science
+98,Lori Ford,lori.f@email.com,Marketing,5,"Content Strategy, Blogging, SEO",B.A. Journalism
+99,Mark Hamilton,mark.h@email.com,Finance,3,"Loan Officer, Mortgage Processing",B.A. Business Economics
+100,Sarah Graham,sarah.g@email.com,HR,6,"Talent Management, Performance Reviews",M.S. HR Management
