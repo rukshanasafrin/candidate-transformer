@@ -4,10 +4,13 @@ from src.engine.schemas import CanonicalCandidateProfile, LocationSchema
 import re
 
 class Merger:
+    # Updated: Added evaluation confidence scores for new adapters
     SOURCE_CONFIDENCE = {
         "ats_json": 0.9,
         "recruiter_csv": 0.8,
         "resume_pdf": 0.6,
+        "resume_text": 0.6,
+        "resume_markdown": 0.6,
         "recruiter_notes": 0.5
     }
 

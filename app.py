@@ -25,9 +25,10 @@ col1, col2 = st.columns([1, 2])
 
 with col1:
     st.header("1. Ingestion Inputs")
+    # Updated: Added support for text and markdown file selections
     uploaded_files = st.file_uploader(
-        "Drop Processing Source Targets (CSV, PDF, JSON)",
-        type=["csv", "pdf", "json"],
+        "Drop Processing Source Targets (CSV, PDF, JSON, TXT)",
+        type=["csv", "pdf", "json", "txt"],
         accept_multiple_files=True
     )
 

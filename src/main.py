@@ -3,15 +3,17 @@ from typing import List, Dict, Any
 from src.adapters.structured_csv import CsvAdapter
 from src.adapters.structured_json import StructuredJsonAdapter
 from src.adapters.unstructured_pdf import PdfResumeAdapter
+from src.adapters.unstructured_text import TextResumeAdapter
 from src.engine.merger import Merger
 from src.projection.projector import Projector
 
 
 def run_pipeline(file_paths: List[str], runtime_config: Dict[str, Any]) -> List[Dict[str, Any]]:
-    # 1. Initialize Adapters
+    # 1. Initialize Adapters (Including text support)
     csv_adapter = CsvAdapter(source_name="recruiter_csv")
     pdf_adapter = PdfResumeAdapter(source_name="resume_pdf")
     json_adapter = StructuredJsonAdapter(source_name="ats_json")
+    text_adapter = TextResumeAdapter(source_name="resume_text")
 
     raw_records = []
 
@@ -29,6 +31,11 @@ def run_pipeline(file_paths: List[str], runtime_config: Dict[str, Any]) -> List[
                 raw_records.extend(pdf_adapter.extract(path))
             elif path_lower.endswith(".json"):
                 raw_records.extend(json_adapter.extract(path))
+            # Added support for unstructured plain text formats
+            elif path_lower.endswith(".txt"):
+                raw_records.extend(text_adapter.extract(path))
+            else:
+                print(f"Edge Case Alert: Unsupported file format ignored: {path}")
         except Exception as file_error:
             print(f"Edge Case Alert: Corrupt file parsing failure skipped: {path}. Error: {file_error}")
             continue
